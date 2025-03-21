@@ -16,7 +16,7 @@ Cette tâche consiste à mettre en place la structure de dossiers et de fichiers
 - Préparer l'architecture pour faciliter le développement des fonctionnalités futures
 
 ## Initialisation
-- [ ] Lire la documentation existante et prendre connaissance du projet
+- [x] Lire la documentation existante et prendre connaissance du projet
 - [ ] Examiner le projet Vite initialisé lors de la tâche SETUP-001
 
 ## Étapes d'implémentation
