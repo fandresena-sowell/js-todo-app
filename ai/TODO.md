@@ -2,7 +2,7 @@
 
 ## Configuration et Structure de Base
 - [x] [Initialiser le projet avec Vite](tasks/SETUP-001.md)
-- [ ] [Créer la structure de base du projet](tasks/SETUP-002.md)
+- [x] [Créer la structure de base du projet](tasks/SETUP-002.md)
 - [ ] [Configurer les dépendances nécessaires](tasks/SETUP-003.md)
 - [ ] [Mettre en place le système de build et de déploiement](tasks/SETUP-004.md)
 
